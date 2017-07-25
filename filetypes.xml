@@ -1,12 +1,13 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="datasets" type="PLAIN_TEXT" />
       <mapping pattern="test_create_dataset_assign_revisions.cql" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
-      <mapping pattern="dghnb" type="Ruby" />
       <mapping pattern="agf" type="Ruby" />
+      <mapping pattern="dghnb" type="Ruby" />
     </extensionMap>
   </component>
 </application>
