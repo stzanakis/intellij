@@ -6,6 +6,7 @@
       <mapping pattern="querymark" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping pattern="agf" type="Ruby" />
       <mapping pattern="dghnb" type="Ruby" />
