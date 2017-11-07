@@ -11,7 +11,9 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="jsonNodeMetisUserExample" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="jsonNodeZohoUserWrongDateFormatException" type="PLAIN_TEXT" />
       <mapping pattern="Staticfile" type="PLAIN_TEXT" />
+      <mapping pattern="jsonNodeZohoUserNoOrganizationNameExample" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping pattern="agf" type="Ruby" />
