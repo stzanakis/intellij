@@ -5,7 +5,9 @@
       <mapping pattern="test_create_dataset_assign_revisions.cql" type="PLAIN_TEXT" />
       <mapping pattern="StaticFile" type="PLAIN_TEXT" />
       <mapping pattern="jsonNodeZohoUserExample" type="PLAIN_TEXT" />
+      <mapping pattern="jsonNodeZohoUserWrongAccountRoleExample" type="PLAIN_TEXT" />
       <mapping pattern="jsonNodeZohoOrganizationExample" type="PLAIN_TEXT" />
+      <mapping pattern="jsonNodeZohoUserIsAdminExample" type="PLAIN_TEXT" />
       <mapping pattern="querymark" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
