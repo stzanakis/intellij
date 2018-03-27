@@ -3,9 +3,10 @@
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
-          <option name="hostUrl" value="http://jenkins.eanadev.org:9000" />
+          <option name="hostUrl" value="http://sonarqube.eanadev.org:9000" />
           <token>dfcedf9edf99dfc8df93df9fdf98df99df9edfcedf9ddfc9dfcbdf9bdf9edf93df99df99df9bdf98df9ddf9cdf9bdf9fdf9ddfcfdfcedf99df9cdfccdf92df93df93dfc8dfc8df9ddf9fdf9edf9cdf9e</token>
           <option name="name" value="jenkins.eanadev.org:9000" />
+          <organizationKey>default-organization</organizationKey>
         </SonarQubeServer>
       </list>
     </option>
