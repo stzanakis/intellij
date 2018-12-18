@@ -1,11 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '.../metis-enrichment/metis-enrichment-service/src/test/java/eu/europeana/enrichment/service/wikidata/EntityConverterUtilsTest.java [metis-enrichment-service]'" />
-    <option name="defaultScopeName" value="File '.../metis-enrichment/metis-enrichment-service/src/test/java/eu/europeana/enrichment/service/wikidata/EntityConverterUtilsTest.java [metis-enrichment-service]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="regularExpressions" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../metis-enrichment/metis-enrichment-service/src/test/java/eu/europeana/enrichment/service/wikidata/EntityConverterUtilsTest.java [metis-enrichment-service]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
