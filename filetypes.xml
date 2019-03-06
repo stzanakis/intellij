@@ -1,25 +1,26 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="datasets" type="PLAIN_TEXT" />
-      <mapping pattern="test_create_dataset_assign_revisions.cql" type="PLAIN_TEXT" />
-      <mapping pattern="StaticFile" type="PLAIN_TEXT" />
-      <mapping pattern="ecloudDatasetIds" type="PLAIN_TEXT" />
-      <mapping pattern="jsonNodeZohoUserExample" type="PLAIN_TEXT" />
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="jsonNodeZohoUserWrongAccountRoleExample" type="PLAIN_TEXT" />
-      <mapping pattern="jsonNodeZohoOrganizationExample" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="jsonNodeZohoUserIsAdminExample" type="PLAIN_TEXT" />
+      <mapping pattern="ecloudDatasetIds" type="PLAIN_TEXT" />
+      <mapping pattern="jsonNodeZohoUserNoOrganizationNameExample" type="PLAIN_TEXT" />
+      <mapping pattern="xslt_test" type="PLAIN_TEXT" />
+      <mapping pattern="datasets" type="PLAIN_TEXT" />
+      <mapping pattern="jsonNodeZohoUserWrongDateFormatException" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="jsonNodeMetisUserExample" type="PLAIN_TEXT" />
+      <mapping pattern="jsonNodeZohoOrganizationExample" type="PLAIN_TEXT" />
       <mapping pattern="querymark" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
-      <mapping pattern="xslt_test" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="jsonNodeMetisUserExample" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="jsonNodeZohoUserWrongDateFormatException" type="PLAIN_TEXT" />
       <mapping pattern="Staticfile" type="PLAIN_TEXT" />
-      <mapping pattern="jsonNodeZohoUserNoOrganizationNameExample" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping pattern="test_create_dataset_assign_revisions.cql" type="PLAIN_TEXT" />
+      <mapping pattern="StaticFile" type="PLAIN_TEXT" />
+      <mapping pattern="jsonNodeZohoUserExample" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping pattern="agf" type="Ruby" />
       <mapping pattern="dghnb" type="Ruby" />
     </extensionMap>
