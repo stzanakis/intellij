@@ -1,0 +1,14 @@
+<application>
+  <component name="sonarServers">
+    <option name="beans">
+      <list>
+        <SonarServerConfig>
+          <option name="anonymous" value="true" />
+          <option name="hostUrl" value="http://jenkins.eanadev.org" />
+          <option name="name" value="Europeana SonarQube" />
+          <option name="user" value="" />
+        </SonarServerConfig>
+      </list>
+    </option>
+  </component>
+</application>
