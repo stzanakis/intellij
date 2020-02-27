@@ -4,6 +4,7 @@
       <set>
         <option value="squid:S1854" />
         <option value="squid:S2095" />
+        <option value="squid:S2201" />
       </set>
     </option>
     <option name="sonarQubeServers">
