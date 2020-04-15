@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../metis-core/metis-core-service/src/main/java/eu/europeana/metis/core/dao/DatasetDao.java [metis-core-service]'" />
-    <option name="defaultScopeName" value="File '.../metis-core/metis-core-service/src/main/java/eu/europeana/metis/core/dao/DatasetDao.java [metis-core-service]'" />
-    <option name="SEARCH_SCOPE" value="File '.../metis-core/metis-core-service/src/main/java/eu/europeana/metis/core/dao/DatasetDao.java [metis-core-service]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
