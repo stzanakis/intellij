@@ -138,9 +138,13 @@
           <option name="url" value="https://github.com/sharmadeepika221/FindnumberProblem.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ccamiletti/europeana-java-test.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/candidates/sharmadeepika221" />
+    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/candidates/ccamiletti" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
