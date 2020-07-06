@@ -134,9 +134,13 @@
           <option name="url" value="https://bitbucket.org/jayaprabahar/smallestdividablenumber.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/sharmadeepika221/FindnumberProblem.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/candidates" />
+    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/candidates/sharmadeepika221" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
