@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'corelib'" />
-    <option name="defaultScopeName" value="Project 'corelib'" />
-    <option name="SEARCH_SCOPE" value="Project 'corelib'" />
+    <option name="customScope" value="Project 'metis-framework'" />
+    <option name="defaultScopeName" value="Project 'metis-framework'" />
+    <option name="SEARCH_SCOPE" value="Project 'metis-framework'" />
   </component>
 </application>
