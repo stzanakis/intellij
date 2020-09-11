@@ -1,0 +1,26 @@
+<application>
+  <component name="SquaretestSettings">
+    <option name="projectNameModuleNameToSettingsMap">
+      <map>
+        <entry key="metis-framework_metis-authentication-common">
+          <value>
+            <ModuleSettings>
+              <option name="moduleName" value="metis-authentication-common" />
+              <option name="templateLanguage" value="Java" />
+              <option name="template">
+                <Template>
+                  <option name="presentationName" value="JUnit5MockitoAssertJ.java.ft" />
+                  <option name="internalTemplateSaveName" value="SQTJ-JUnit5MockitoAssertJ.java" />
+                  <option name="isInternal" value="true" />
+                </Template>
+              </option>
+              <option name="testDirectoryRoot" value="metis-authentication/metis-authentication-common/src/test/java" />
+            </ModuleSettings>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="hasShownMetricsDisclosure" value="true" />
+    <option name="id" value="16605beb-9a23-4e7e-8e6e-2c344edd7fdd" />
+  </component>
+</application>
