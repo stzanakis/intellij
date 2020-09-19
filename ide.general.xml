@@ -1,6 +1,7 @@
 <application>
   <component name="GeneralSettings">
     <option name="confirmExit" value="false" />
+    <option name="defaultProjectDirectory" value="$USER_HOME$/IdeaProjects/metis-framework" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
